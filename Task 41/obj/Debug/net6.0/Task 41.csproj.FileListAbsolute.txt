@@ -1,0 +1,15 @@
+D:\git-code\Урок 4. Рекурсия и двумерные массивы\Task 41\bin\Debug\net6.0\Task 41.exe
+D:\git-code\Урок 4. Рекурсия и двумерные массивы\Task 41\bin\Debug\net6.0\Task 41.deps.json
+D:\git-code\Урок 4. Рекурсия и двумерные массивы\Task 41\bin\Debug\net6.0\Task 41.runtimeconfig.json
+D:\git-code\Урок 4. Рекурсия и двумерные массивы\Task 41\bin\Debug\net6.0\Task 41.dll
+D:\git-code\Урок 4. Рекурсия и двумерные массивы\Task 41\bin\Debug\net6.0\Task 41.pdb
+D:\git-code\Урок 4. Рекурсия и двумерные массивы\Task 41\obj\Debug\net6.0\Task 41.csproj.AssemblyReference.cache
+D:\git-code\Урок 4. Рекурсия и двумерные массивы\Task 41\obj\Debug\net6.0\Task 41.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-code\Урок 4. Рекурсия и двумерные массивы\Task 41\obj\Debug\net6.0\Task 41.AssemblyInfoInputs.cache
+D:\git-code\Урок 4. Рекурсия и двумерные массивы\Task 41\obj\Debug\net6.0\Task 41.AssemblyInfo.cs
+D:\git-code\Урок 4. Рекурсия и двумерные массивы\Task 41\obj\Debug\net6.0\Task 41.csproj.CoreCompileInputs.cache
+D:\git-code\Урок 4. Рекурсия и двумерные массивы\Task 41\obj\Debug\net6.0\Task 41.dll
+D:\git-code\Урок 4. Рекурсия и двумерные массивы\Task 41\obj\Debug\net6.0\refint\Task 41.dll
+D:\git-code\Урок 4. Рекурсия и двумерные массивы\Task 41\obj\Debug\net6.0\Task 41.pdb
+D:\git-code\Урок 4. Рекурсия и двумерные массивы\Task 41\obj\Debug\net6.0\Task 41.genruntimeconfig.cache
+D:\git-code\Урок 4. Рекурсия и двумерные массивы\Task 41\obj\Debug\net6.0\ref\Task 41.dll
